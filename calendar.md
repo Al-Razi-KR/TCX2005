@@ -13,6 +13,7 @@
 |------|-------|-------|
 | 14 May 2026 (Thu) | **L1 — Course Introduction** | Review Canvas materials + L1 slides before class |
 | 14 May 2026, 00:00 | Sample project files unlock | Canvas > Helpful Resources (2× proposal, 2× final presentation) |
+| 15 May 2026, 00:00 | L1_Activity_SampleResponse.pdf unlocks | Canvas > Helpful Resources |
 | By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
 | 11 July 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · Closed book (slides in Examplify) |
 

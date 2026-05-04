@@ -4,6 +4,12 @@ Sample project works released by instructor for reference (from Canvas > Helpful
 
 > These are for reference only — strive to do better than senior students.
 
+## Lesson Files
+
+| File | Type | Status |
+|------|------|--------|
+| L1_Activity_SampleResponse.pdf | L1 Activity Sample Response | Unlocks 15 May 2026, 00:00 |
+
 ## Sample Projects
 
 | File | Type | Status |
