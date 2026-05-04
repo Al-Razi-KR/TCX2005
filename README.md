@@ -3,7 +3,8 @@
 Personal course materials repository for **TCX2005** at NUS.
 
 **Instructor:** Dr. Prakash Sukhwal (pcsdisa@nus.edu.sg)
-**Venue:** LT15
+**Lecture:** Thursday, 6:45–8:45 PM · LT15 (or Zoom)
+**Tutorial:** Thursday, 8:45–9:45 PM · Same venue · TA: Mr. Yutaro (starts Week 2)
 **Duration:** 14 May 2026 – 11 July 2026
 **Textbook:** *Management Information Systems: Managing the Digital Firm*, 17th Ed. — Laudon & Laudon
 
@@ -29,7 +30,7 @@ This course explores the strategic role of information systems in organisations 
 | `lessons/` | Lecture notes and pre-recorded lecture summaries |
 | `project/` | Group project materials (theme: Digital Transformation) |
 | `quizzes/` | Weekly short quiz materials |
-| `resources/` | Textbook references and helpful links |
+| `resources/` | Textbook references, assessments, course rules, helpful resources |
 
 ---
 
@@ -39,33 +40,37 @@ This course explores the strategic role of information systems in organisations 
 
 | Date | Event | Notes |
 |------|-------|-------|
-| 14 May 2026 (Thu) | **L1 — Course Introduction** | Review Canvas materials + L1 slides before class |
+| 14 May 2026 (Thu) | **L1 — Course Introduction** | F2F at LT15; 6:45 PM |
 | By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
-| 11 July 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · Closed book (slides in Examplify) |
+| 28 May 2026 (Thu, Week 3) | **Project Proposal due** | 2 slides; 1 submission per team |
+| 28 May 2026 (Thu, Week 3) | **Team lock-in** | No changes to groups after Week 3 |
+| 21 Jun 2026 (Sun) | **Presentation slides due** | Upload to Canvas by midnight |
+| 25 Jun & 02 Jul 2026 | **Project Presentations** | Online via Zoom (Weeks 7–8) |
+| 11 July 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · Open book (slides in Examplify, no internet) |
 
 ### Weekly Schedule
 
-| Week | Date | Day | Lesson | Quiz | Notes |
-|------|------|-----|--------|------|-------|
-| 1 | 14 May 2026 | Thu | L1 — Course Introduction | — | Project briefing in class |
-| 2 | 21 May 2026 | Thu | | | Group registration deadline |
-| 3 | 28 May 2026 | Thu | | | |
-| 4 | 04 Jun 2026 | Thu | | | |
-| 5 | 11 Jun 2026 | Thu | | | |
-| 6 | 18 Jun 2026 | Thu | | | |
-| 7 | 25 Jun 2026 | Thu | | | |
-| 8 | 02 Jul 2026 | Thu | | | |
-| Final | 11 Jul 2026 | **Sat** | — | — | **Final Exam · 9–11 AM · Venue TBD** |
+| Week | Date | Day | Session | Tutorial | Notes |
+|------|------|-----|---------|----------|-------|
+| 1 | 14 May 2026 | Thu | L1: Course Intro + IS in Global Business Today-I [F2F] | T1: Project Briefing | — |
+| 2 | 21 May 2026 | Thu | L3: IS, Organisations & Strategy-I [F2F] | T2: in-class | L2 pre-recorded |
+| 3 | 28 May 2026 | Thu | Project/Course Consultation [Zoom] | T3: zoom | **Proposal due; team lock-in** |
+| 4 | 04 Jun 2026 | Thu | L6: Critical IS Infrastructure – I [Zoom] | T4: zoom | L5 pre-recorded |
+| 5 | 11 Jun 2026 | Thu | Course & Project Consultation [Zoom] | T5: zoom | L7 pre-recorded |
+| 6 | 18 Jun 2026 | Thu | L9: Enhancing Decision Making [Zoom] | T6: zoom | **Slides due Sun 21 Jun** |
+| 7 | 25 Jun 2026 | Thu | Project Presentations – Batch 1 [Zoom] | T7: take-home | L10 pre-recorded |
+| 8 | 02 Jul 2026 | Thu | Course Wrap-up + Project Presentations – Batch 2 [Zoom] | T8: take-home | — |
+| Final | 11 Jul 2026 | **Sat** | **Final Exam** (in-person) | — | 9–11 AM |
 
 ### Assessments
 
 | Component | Weight | Details |
 |-----------|--------|---------|
-| Class Performance (Tutorials) | 10% | Late by 1 day → 50%; later → 0 |
-| 6 Weekly Quizzes (Canvas) | 10% | — |
-| Final Exam | 50% | 11 Jul · 9–11 AM · Closed book (slides in Examplify) |
-| Project Proposal | 10% | Exact deadline on Canvas Assignment |
-| Final Presentation | 20% | Exact deadline on Canvas Assignment |
+| Class Performance (Tutorials) | 10% | T2–T8: 1 pt each + 3 bonus pts for submitting all on time |
+| 6 Weekly Quizzes (Canvas) | 10% | Timed; NOT available after deadline |
+| Final Exam | 50% | Open book (slides in Examplify); No internet; MCQs + Short-answer |
+| Project Proposal | 10% | 2 slides; due Week 3 |
+| Project Presentation | 20% | 10 mins + 5 mins Q&A; Weeks 7–8 |
 
 > No mid-term exam. No individual assignments. See [assessments.md](resources/assessments.md) and [course-rules.md](resources/course-rules.md) for full details.
 
@@ -75,7 +80,8 @@ This course explores the strategic role of information systems in organisations 
 
 - [ ] Read Canvas: learning outcomes, course rules, important dates
 - [ ] Read L1 Course Introduction slides before 14 May
-- [ ] Access textbook via NUS Library (Laudon & Laudon, 17th Ed.)
-- [ ] Form project group of 5–6 members
-- [ ] Register group on Canvas > People > Project Groups (by Week 2)
-- [ ] Attend L1 on 14 May 2026 at LT15
+- [ ] Access textbook via NUS Library — read Ch. 1 & 2
+- [ ] Form project group of 5–6 members and designate team leader
+- [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
+- [ ] Complete L1 homework activity: `L1_Activity.pdf`
+- [ ] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
