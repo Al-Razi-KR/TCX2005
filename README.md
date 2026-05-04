@@ -23,14 +23,12 @@ This course explores the strategic role of information systems in organisations 
 
 ## Repository Structure
 
-| Folder | Contents | Git |
-|--------|----------|-----|
-| `announcements/` | Instructor announcements, named `YYYY-MM-DD_topic.md` | tracked |
-| `lessons/` | Lecture notes and pre-recorded lecture summaries | tracked |
-| `quizzes/` | Weekly short quiz materials | tracked |
-| `resources/` | Textbook references, assessments, course rules, helpful resources | tracked |
-| `assignments/` | Assignment screenshots and written responses | **gitignored** |
-| `project/` | Group project materials (theme: Digital Transformation) | **gitignored** |
+| Folder | Contents |
+|--------|----------|
+| `announcements/` | Instructor announcements, named `YYYY-MM-DD_topic.md` |
+| `lessons/` | Lecture notes and pre-recorded lecture summaries |
+| `quizzes/` | Weekly short quiz materials |
+| `resources/` | Textbook references, assessments, course rules, helpful resources |
 
 ---
 
