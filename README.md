@@ -27,6 +27,8 @@ This course explores the strategic role of information systems in organisations 
 |--------|----------|
 | `announcements/` | Instructor announcements, named `YYYY-MM-DD_topic.md` |
 | `lessons/` | Lecture notes and pre-recorded lecture summaries |
+| `videos/` | Lecture and tutorial video recordings |
+| `transcripts/` | Raw auto-generated captions and transcripts from lecture videos |
 | `quizzes/` | Weekly short quiz materials |
 | `resources/` | Textbook references, assessments, course rules, helpful resources |
 
