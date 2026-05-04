@@ -11,10 +11,11 @@ This is a personal course materials repository for **TCX2005: Information System
 - `announcements/` — Instructor announcements, named by date and topic
 - `calendar.md` — Master calendar of all deadlines, lessons, and tasks
 - `assignments/` — Assignment screenshots and written responses
+- `book/` — Textbook PDF (Laudon & Laudon) and chapter summaries
 - `lessons/` — Lecture slides, notes, and pre-recorded lecture summaries
 - `project/` — Group project materials and deliverables
 - `quizzes/` — Weekly short quiz materials and answers
-- `resources/` — Textbook references and helpful links
+- `resources/` — Course rules, assessments, and helpful links
 
 ## Key Course Details
 

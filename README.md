@@ -26,11 +26,12 @@ This course explores the strategic role of information systems in organisations 
 | Folder | Contents |
 |--------|----------|
 | `announcements/` | Instructor announcements, named `YYYY-MM-DD_topic.md` |
+| `book/` | Textbook PDF (Laudon & Laudon, 17th Ed.) and chapter summaries |
 | `lessons/` | Lecture notes and pre-recorded lecture summaries |
 | `videos/` | Lecture and tutorial video recordings |
 | `transcripts/` | Raw auto-generated captions and transcripts from lecture videos |
 | `quizzes/` | Weekly short quiz materials |
-| `resources/` | Textbook references, assessments, course rules, helpful resources |
+| `resources/` | Assessments, course rules, and helpful resources |
 
 ---
 
@@ -80,7 +81,7 @@ This course explores the strategic role of information systems in organisations 
 
 - [ ] Read Canvas: learning outcomes, course rules, important dates
 - [ ] Read L1 Course Introduction slides before 14 May
-- [ ] Access textbook via NUS Library — read Ch. 1 & 2
+- [ ] Read textbook Ch. 1 & 2 — see [book/](book/) for PDF and chapter summaries
 - [ ] Form project group of 5–6 members and designate team leader
 - [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
 - [ ] Complete L1 homework activity: `L1_Activity.pdf`
