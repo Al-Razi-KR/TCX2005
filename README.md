@@ -45,17 +45,17 @@ This course explores the strategic role of information systems in organisations 
 
 ### Weekly Schedule
 
-| Week | Date | Lesson | Quiz | Notes |
-|------|------|--------|------|-------|
-| 1 | 14 May 2026 | L1 — Course Introduction | — | Project briefing in class |
-| 2 | | | | Group registration deadline |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| Final | 11 Jul 2026 | — | — | **Final Exam · 9–11 AM · Venue TBD** |
+| Week | Date | Day | Lesson | Quiz | Notes |
+|------|------|-----|--------|------|-------|
+| 1 | 14 May 2026 | Thu | L1 — Course Introduction | — | Project briefing in class |
+| 2 | 21 May 2026 | Thu | | | Group registration deadline |
+| 3 | 28 May 2026 | Thu | | | |
+| 4 | 04 Jun 2026 | Thu | | | |
+| 5 | 11 Jun 2026 | Thu | | | |
+| 6 | 18 Jun 2026 | Thu | | | |
+| 7 | 25 Jun 2026 | Thu | | | |
+| 8 | 02 Jul 2026 | Thu | | | |
+| Final | 11 Jul 2026 | **Sat** | — | — | **Final Exam · 9–11 AM · Venue TBD** |
 
 ### Assessments
 
