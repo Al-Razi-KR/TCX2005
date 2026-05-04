@@ -12,8 +12,8 @@
 | Date | Event | Notes |
 |------|-------|-------|
 | 14 May 2026 (Thu) | **L1 — Course Introduction** | Review Canvas materials + L1 slides before class |
-| By Week 2 | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
-| 11 July 2026 (Fri) | **Final Exam** | 9–11 AM · Venue TBD · Closed book (slides in Examplify) |
+| By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
+| 11 July 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · Closed book (slides in Examplify) |
 
 ---
 
