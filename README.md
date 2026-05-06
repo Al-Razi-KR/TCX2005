@@ -28,7 +28,6 @@ This course explores the strategic role of information systems in organisations 
 | `announcements/` | Instructor announcements, named `YYYY-MM-DD_topic.md` |
 | `book/` | Textbook PDF (Laudon & Laudon, 17th Ed.) and chapter summaries |
 | `lessons/` | Lecture notes and pre-recorded lecture summaries |
-| `videos/` | Lecture and tutorial video recordings |
 | `transcripts/` | Raw auto-generated captions and transcripts from lecture videos |
 | `quizzes/` | Weekly short quiz materials |
 | `resources/` | Assessments, course rules, and helpful resources |
@@ -69,7 +68,7 @@ This course explores the strategic role of information systems in organisations 
 |-----------|--------|---------|
 | Class Performance (Tutorials) | 10% | T2–T8: 1 pt each + 3 bonus pts for submitting all on time |
 | 6 Weekly Quizzes (Canvas) | 10% | Timed; NOT available after deadline |
-| Final Exam | 50% | Open book (slides in Examplify); No internet; MCQs + Short-answer |
+| Final Exam | 50% | **Closed book** (lecture slides in Examplify); No internet; No laptop access; MCQs + Short-answer |
 | Project Proposal | 10% | 2 slides; due Week 3 |
 | Project Presentation | 20% | 10 mins + 5 mins Q&A; Weeks 7–8 |
 

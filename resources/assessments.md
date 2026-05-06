@@ -6,7 +6,7 @@
 |-----------|--------|---------|
 | Class Performance (Tutorials) | 10% | T2–T8: 1 pt each (7 pts total) + 3 bonus pts for submitting all tutorials/activities on time |
 | 6 Weekly Quizzes (Canvas) | 10% | Timed; approximately every 2 sessions; **NOT available after Canvas deadline** |
-| Final Exam | 50% | Open book (lecture slides provided within Examplify); No internet; Full lockdown; MCQs + Short-answer questions; In-person written |
+| Final Exam | 50% | **Closed book** (lecture slides provided within Examplify); No internet; No access to laptop contents; Full lockdown; MCQs + Short-answer questions; In-person written |
 
 > Tutorial late submissions: 1 day late → 50% score; any later → 0 score
 

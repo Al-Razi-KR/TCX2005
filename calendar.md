@@ -21,7 +21,7 @@
 | 21 Jun 2026 (Sun, after Week 6) | **Presentation slides due** | Upload to Canvas by midnight |
 | 25 Jun 2026 (Thu, Week 7) | **Project Presentations – Batch 1** | Online via Zoom (~3 hrs.) |
 | 02 Jul 2026 (Thu, Week 8) | **Project Presentations – Batch 2** | Online via Zoom (~3 hrs.) |
-| 11 Jul 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · Open book (slides in Examplify, no internet) |
+| 11 Jul 2026 (Sat) | **Final Exam** | 9–11 AM · Venue TBD · **Closed book** (lecture slides in Examplify; no internet; no laptop access) |
 
 ---
 
@@ -47,7 +47,7 @@
 |-----------|--------|---------|
 | Class Performance (Tutorials) | 10% | T2–T8: 1 pt each (7 pts) + 3 bonus pts for submitting all on time |
 | 6 Weekly Quizzes (Canvas) | 10% | Timed; ~every 2 sessions; NOT available after Canvas deadline |
-| Final Exam | 50% | Open book (slides in Examplify); No internet; Full lockdown; MCQs + Short-answer Qs |
+| Final Exam | 50% | **Closed book** (lecture slides in Examplify); No internet; No laptop access; Full lockdown; MCQs + Short-answer Qs |
 | Project Proposal | 10% | 2 slides; 1 submission per team; due Week 3 |
 | Project Presentation | 20% | 10 mins + 5 mins Q&A; up to 8 slides; online Weeks 7–8 |
 
