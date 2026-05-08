@@ -78,8 +78,9 @@ This course explores the strategic role of information systems in organisations 
 
 ## Action Items
 
-- [ ] Read Canvas: learning outcomes, course rules, important dates
-- [ ] Read L1 Course Introduction slides before 14 May
+- [x] Read Canvas: learning outcomes, course rules, important dates
+- [x] Read L1 Course Introduction slides before 14 May
+- [x] Watch pre-recorded L1 videos (Parts 1–3) and create notes
 - [ ] Read textbook Ch. 1 & 2 — see [book/](book/) for PDF and chapter summaries
 - [ ] Form project group of 5–6 members and designate team leader
 - [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
