@@ -17,6 +17,22 @@ This is a personal course materials repository for **TCX2005: Information System
 - `quizzes/` — Weekly short quiz materials and answers
 - `resources/` — Course rules, assessments, and helpful links
 
+## Custom Skills
+
+### `transcript` skill
+Defined in `.claude/skills/transcript/SKILL.md`. Invoke with `/transcript` or paste a transcript and Claude will trigger it automatically.
+
+It will:
+1. Create a structured notes file in `lessons/` with a `_notes.md` suffix
+2. Create a corrected raw transcript in `transcripts/`
+3. Output a table of all detected inaccuracies with confidence levels and timestamps
+
+Only high-confidence corrections are auto-applied. Medium and low confidence issues are reported in the table for user confirmation.
+
+**File naming:** `L{N}_Part-{X}_{Description}` — e.g. `L1_Part-2_Information-Systems-Basics`
+
+---
+
 ## Key Course Details
 
 - **Instructor:** Dr. Prakash Sukhwal (pcsdisa@nus.edu.sg)
