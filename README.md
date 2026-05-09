@@ -84,5 +84,5 @@ This course explores the strategic role of information systems in organisations 
 - [ ] Read textbook Ch. 1 & 2 — see [book/](book/) for PDF and chapter summaries
 - [ ] Form project group of 5–6 members and designate team leader
 - [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
-- [ ] Complete L1 homework activity: `L1_Activity.pdf`
+- [ ] Complete & submit L1 Tutorial Activity: *FairPrice Smart Store — IT Infrastructure Mapping* → Canvas > Assignments > Tutorials > L1_Activity
 - [ ] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
