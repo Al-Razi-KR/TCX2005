@@ -15,6 +15,7 @@
 | 14 May 2026 (Thu) | **L1 — Course Introduction** | F2F at LT15; project briefing in class |
 | 14 May 2026, 00:00 | Sample project files unlock | Canvas > Helpful Resources (2× proposal, 2× final presentation) |
 | 15 May 2026, 00:00 | L1_Activity_SampleResponse.pdf unlocks | Canvas > Helpful Resources |
+| 20 May 2026, 23:59 | **Quiz 1 deadline** | Auto-graded on Canvas; attempt before deadline |
 | By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
 | 28 May 2026 (Thu, Week 3) | **Project Proposal due** | 2 slides; 1 submission per team on Canvas |
 | 28 May 2026 (Thu, Week 3) | **No more team changes after this date** | Team lock-in after Week 3 |
@@ -64,3 +65,4 @@
 - [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
 - [ ] Complete L1 homework activity: `L1_Activity.pdf`
 - [ ] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
+- [ ] **Complete Quiz 1 on Canvas by 20 May 2026 at 23:59** (auto-graded)
