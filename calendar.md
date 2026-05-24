@@ -17,6 +17,8 @@
 | 15 May 2026, 00:00 | L1_Activity_SampleResponse.pdf unlocks | Canvas > Helpful Resources |
 | 20 May 2026, 23:59 | **Quiz 1 deadline** | Auto-graded on Canvas; attempt before deadline |
 | By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
+| 28 May 2026 (Thu, Week 3) | **Tutorial 2 PDF due** | Submit on Canvas before 6 PM (every Thursday before lecture) |
+| 28 May 2026 (Thu, Week 3) | **Presentation timeslot selection deadline** | First-come, first-served — Google Sheet linked on Canvas; by 23:59 |
 | 28 May 2026 (Thu, Week 3) | **Project Proposal due** | 2 slides; 1 submission per team on Canvas |
 | 28 May 2026 (Thu, Week 3) | **No more team changes after this date** | Team lock-in after Week 3 |
 | 21 Jun 2026 (Sun, after Week 6) | **Presentation slides due** | Upload to Canvas by midnight |
@@ -58,11 +60,14 @@
 
 ## Action Items
 
-- [ ] Read Canvas: learning outcomes, course rules, important dates
-- [ ] Read L1 Course Introduction slides before 14 May
-- [ ] Access textbook via NUS Library (Laudon & Laudon, 17th Ed.) — read Ch. 1 & 2
-- [ ] Form project group of 5–6 members and designate team leader
-- [ ] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
-- [ ] Complete L1 homework activity: `L1_Activity.pdf`
-- [ ] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
-- [ ] **Complete Quiz 1 on Canvas by 20 May 2026 at 23:59** (auto-graded)
+- [x] Read Canvas: learning outcomes, course rules, important dates
+- [x] Read L1 Course Introduction slides before 14 May
+- [x] Access textbook via NUS Library (Laudon & Laudon, 17th Ed.) — read Ch. 1 & 2
+- [x] Form project group of 5–6 members and designate team leader
+- [x] Register group on Canvas > People > Project Groups (by Week 2, 21 May)
+- [x] Complete L1 homework activity: `L1_Activity.pdf`
+- [x] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
+- [x] **Complete Quiz 1 on Canvas by 20 May 2026 at 23:59** (auto-graded)
+- [ ] **Select presentation timeslot** via Google Sheet on Canvas — by **28 May 2026 at 23:59**
+- [ ] **Submit Tutorial 2 PDF** on Canvas before **28 May 2026 at 18:00**
+- [ ] Contact project group members and begin project discussion
