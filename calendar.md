@@ -18,8 +18,8 @@
 | 20 May 2026, 23:59 | **Quiz 1 deadline** | Auto-graded on Canvas; attempt before deadline |
 | By 21 May 2026 (Thu, Week 2) | **Form project group** | 5–6 members; register on Canvas > People > Project Groups |
 | 28 May 2026 (Thu, Week 3) | **Tutorial 2 PDF due** | Submit on Canvas before 6 PM (every Thursday before lecture) |
-| 28 May 2026 (Thu, Week 3) | **Presentation timeslot selection deadline** | First-come, first-served — Google Sheet linked on Canvas; by 23:59 |
-| 28 May 2026 (Thu, Week 3) | **Project Proposal due** | 2 slides; 1 submission per team on Canvas |
+| 29 May 2026 (Fri) | **Presentation timeslot selection — last chance** | Deadline passed; register by EOD 29 May or get randomly assigned — Google Sheet linked on Canvas |
+| 31 May 2026 (Sun, Week 3) | **Project Proposal due** | Hard deadline — 2 slides; 1 submission per team on Canvas; by 23:59 |
 | 28 May 2026 (Thu, Week 3) | **No more team changes after this date** | Team lock-in after Week 3 |
 | 21 Jun 2026 (Sun, after Week 6) | **Presentation slides due** | Upload to Canvas by midnight |
 | 25 Jun 2026 (Thu, Week 7) | **Project Presentations – Batch 1** | Online via Zoom (~3 hrs.) |
@@ -68,6 +68,7 @@
 - [x] Complete L1 homework activity: `L1_Activity.pdf`
 - [x] Attend L1 on 14 May 2026 at LT15 (6:45 PM)
 - [x] **Complete Quiz 1 on Canvas by 20 May 2026 at 23:59** (auto-graded)
-- [ ] **Select presentation timeslot** via Google Sheet on Canvas — by **28 May 2026 at 23:59**
-- [ ] **Submit Tutorial 2 PDF** on Canvas before **28 May 2026 at 18:00**
+- [ ] **Select presentation timeslot** via Google Sheet on Canvas — deadline passed, register by EOD **29 May 2026** or get randomly assigned
+- [x] **Submit Tutorial 2 PDF** on Canvas before **28 May 2026 at 18:00**
+- [ ] **Submit Project Proposal** (2 slides) on Canvas — hard deadline **31 May 2026 at 23:59**
 - [ ] Contact project group members and begin project discussion
